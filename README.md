@@ -1,1 +1,3 @@
-# git-test
+# Starting the Odin Project again
+
+So I finally found a job, basically its support, but i've been able to practice my developer skills, creating a lot of automations using google appscript (javascript), and interacting with only english speaking customers. I don't want to fall in my confort zone, so i'll be pursuing my dream to work at a FAANG company, or who knows, even create my own company. The goal is to grow and never stop learning.
